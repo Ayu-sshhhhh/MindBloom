@@ -65,7 +65,7 @@ MindBloom/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/RajanyaSaha-27/MindBloom.git
+git clone 
 cd MindBloom
 ```
 
@@ -97,7 +97,7 @@ Create a `.env` file in the backend directory:
 
 ```
 MONGO_URI=your_mongodb_uri
-GEMINI_API_KEY=your_api_key
+
 ```
 
 ---
@@ -109,7 +109,7 @@ GEMINI_API_KEY=your_api_key
 3. Open browser at:
 
 ```
-http://localhost:5173
+https://agent-69c9344031c--legendary-melomakarona-e03e46.netlify.app/
 ```
 
 4. Interact with the AI assistant
