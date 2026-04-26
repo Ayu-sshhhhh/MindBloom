@@ -92,7 +92,7 @@ npm run dev
 1. Fork this repo
 2. Go to **Settings → Pages → Source: GitHub Actions**
 3. Push to `main` — deploys automatically via `.github/workflows/deploy.yml`
-4. Live at: `https://yourusername.github.io/mindbloom`
+4. Live at: `https://agent-69c9344031c--legendary-melomakarona-e03e46.netlify.app/`
 
 ### Netlify (drag & drop, 1 minute)
 1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
